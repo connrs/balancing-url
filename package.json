@@ -1,0 +1,19 @@
+{
+  "name": "balancing-url",
+  "version": "0.1.0",
+  "description": "A URL class to randomise URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --ui tdd --reporter spec"
+  },
+  "repository": "https://github.com/connrs/balancing-url",
+  "keywords": [
+  ],
+  "author": "connrs",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.8.1"
+  },
+  "dependencies": {
+  }
+}

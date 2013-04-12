@@ -1,6 +1,6 @@
 {
   "name": "balancing-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A URL class to randomise URLs",
   "main": "index.js",
   "scripts": {
